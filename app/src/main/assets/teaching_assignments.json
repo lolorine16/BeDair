@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "teacherId": 1,
+    "classId": "B2B-IT",
+    "subjectId": 1
+  },
+  {
+    "id": 2,
+    "teacherId": 1,
+    "classId": "B2A-IT",
+    "subjectId": 1
+  },
+  {
+    "id": 3,
+    "teacherId": 1,
+    "classId": "B2B-IT",
+    "subjectId": 2
+  },
+  {
+    "id": 4,
+    "teacherId": 2,
+    "classId": "B2B-IT",
+    "subjectId": 3
+  }
+]

@@ -1,0 +1,24 @@
+[
+  { "id": 1, "studentId": 1, "sessionId": 1, "status": "A" },
+  { "id": 2, "studentId": 1, "sessionId": 5, "status": "R" },
+  { "id": 3, "studentId": 1, "sessionId": 9, "status": "P" },
+
+  { "id": 4, "studentId": 2, "sessionId": 1, "status": "P" },
+  { "id": 5, "studentId": 2, "sessionId": 5, "status": "A" },
+
+  { "id": 6, "studentId": 3, "sessionId": 3, "status": "R" },
+  { "id": 7, "studentId": 3, "sessionId": 7, "status": "A" },
+  { "id": 8, "studentId": 3, "sessionId": 11, "status": "P" },
+
+  { "id": 9, "studentId": 4, "sessionId": 3, "status": "P" },
+  { "id": 10, "studentId": 4, "sessionId": 7, "status": "P" },
+  { "id": 11, "studentId": 4, "sessionId": 11, "status": "A" },
+
+  { "id": 12, "studentId": 11, "sessionId": 3, "status": "A" },
+  { "id": 13, "studentId": 11, "sessionId": 7, "status": "R" },
+  { "id": 14, "studentId": 11, "sessionId": 11, "status": "R" },
+
+  { "id": 15, "studentId": 32, "sessionId": 1, "status": "R" },
+  { "id": 16, "studentId": 32, "sessionId": 5, "status": "P" },
+  { "id": 17, "studentId": 32, "sessionId": 9, "status": "A" }
+]

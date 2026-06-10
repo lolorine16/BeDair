@@ -1,0 +1,228 @@
+[
+  {
+    "id": 1,
+    "matricule": "CDPS-24-001",
+    "nom": "ADJIWANOU",
+    "prenom": "YAYRA ELISEE",
+    "classeId": "B2B-IT"
+  },
+  {
+    "id": 2,
+    "matricule": "CDPS-24-002",
+    "nom": "ADZIMAH",
+    "prenom": "SERAPH CEPHAS",
+    "classeId": "B2B-IT"
+  },
+  {
+    "id": 3,
+    "matricule": "CDPS-24-003",
+    "nom": "AFANGNIVO",
+    "prenom": "KOKOU MAWULI",
+    "classeId": "B2A-IT"
+  },
+  {
+    "id": 4,
+    "matricule": "CDPS-24-004",
+    "nom": "AGBEYIBO",
+    "prenom": "ABLA ESTHER",
+    "classeId": "B2A-IT"
+  },
+  {
+    "id": 5,
+    "matricule": "CDPS-24-005",
+    "nom": "AKPABLI",
+    "prenom": "WILLIAMS .A.E",
+    "classeId": "B2B-IT"
+  },
+  {
+    "id": 6,
+    "matricule": "CDPS-24-006",
+    "nom": "AMANA",
+    "prenom": "ESSOREKE FAURE",
+    "classeId": "B2B-IT"
+  },
+  {
+    "id": 7,
+    "matricule": "CDPS-24-007",
+    "nom": "AWOUGBLA",
+    "prenom": "ADJOVI DENISE",
+    "classeId": "B2A-IT"
+  },
+  {
+    "id": 8,
+    "matricule": "CDPS-24-008",
+    "nom": "BOUMBIEGOU",
+    "prenom": "TTYAB DONALD",
+    "classeId": "B2A-IT",
+    "estDelegue": true
+  },
+  {
+    "id": 9,
+    "matricule": "CDPS-24-009",
+    "nom": "DEKPE",
+    "prenom": "KOSSI MAXIME",
+    "classeId": "B2B-IT",
+    "estDelegue": true
+  },
+  {
+    "id": 10,
+    "matricule": "CDPS-24-010",
+    "nom": "DOSSOU",
+    "prenom": "PRINCE JOSEPH",
+    "classeId": "B2B-IT"
+  },
+  {
+    "id": 11,
+    "matricule": "CDPS-24-011",
+    "nom": "EKON",
+    "prenom": "DEDE LAUREEN",
+    "classeId": "B2A-IT"
+  },
+  {
+    "id": 12,
+    "matricule": "CDPS-24-012",
+    "nom": "HONYIGLOH",
+    "prenom": "YANIS CHABEL",
+    "classeId": "B2B-IT"
+  },
+  {
+    "id": 13,
+    "matricule": "CDPS-24-013",
+    "nom": "ISSIFOU SEGDA",
+    "prenom": "SOUDAISSE",
+    "classeId": "B2A-IT"
+  },
+  {
+    "id": 14,
+    "matricule": "CDPS-24-014",
+    "nom": "KAMINA",
+    "prenom": "SALOMON MOUGIK",
+    "classeId": "B2B-IT"
+  },
+  {
+    "id": 15,
+    "matricule": "CDPS-24-015",
+    "nom": "KANAZA",
+    "prenom": "DAVID",
+    "classeId": "B2A-IT"
+  },
+  {
+    "id": 16,
+    "matricule": "CDPS-24-016",
+    "nom": "KODJOVI",
+    "prenom": "OHINI PHILIPPE",
+    "classeId": "B2B-IT"
+  },
+  {
+    "id": 17,
+    "matricule": "CDPS-24-017",
+    "nom": "KOLANI",
+    "prenom": "YENDOUBE",
+    "classeId": "B2A-IT"
+  },
+  {
+    "id": 18,
+    "matricule": "CDPS-24-018",
+    "nom": "LADJO",
+    "prenom": "DARYL GNYMDOU",
+    "classeId": "B2B-IT"
+  },
+  {
+    "id": 19,
+    "matricule": "CDPS-24-019",
+    "nom": "LOVI",
+    "prenom": "KINANSOLE YAWA",
+    "classeId": "B2A-IT"
+  },
+  {
+    "id": 20,
+    "matricule": "CDPS-24-020",
+    "nom": "MABLE",
+    "prenom": "SHEKINA EUNICE",
+    "classeId": "B2B-IT"
+  },
+  {
+    "id": 21,
+    "matricule": "CDPS-24-021",
+    "nom": "MAJOYEOGBE",
+    "prenom": "DANIEL AKINBOYE",
+    "classeId": "B2A-IT"
+  },
+  {
+    "id": 22,
+    "matricule": "CDPS-24-022",
+    "nom": "MANOWOGBO",
+    "prenom": "JUSTIN SANCTUS",
+    "classeId": "B2B-IT"
+  },
+  {
+    "id": 23,
+    "matricule": "CDPS-24-023",
+    "nom": "MUGISHA",
+    "prenom": "LAURIELLE",
+    "classeId": "B2A-IT"
+  },
+  {
+    "id": 24,
+    "matricule": "CDPS-24-024",
+    "nom": "OMAROU SADOU",
+    "prenom": "OKACHA",
+    "classeId": "B2B-IT"
+  },
+  {
+    "id": 25,
+    "matricule": "CDPS-24-025",
+    "nom": "PASSAH",
+    "prenom": "EYRAM WELLBORN",
+    "classeId": "B2A-IT"
+  },
+  {
+    "id": 26,
+    "matricule": "CDPS-24-026",
+    "nom": "SALIFOU",
+    "prenom": "IMANE",
+    "classeId": "B2B-IT"
+  },
+  {
+    "id": 27,
+    "matricule": "CDPS-24-027",
+    "nom": "SAMBOE",
+    "prenom": "ANITA SPERA",
+    "classeId": "B2A-IT"
+  },
+  {
+    "id": 28,
+    "matricule": "CDPS-24-028",
+    "nom": "SANDAH",
+    "prenom": "LEASSEFOU DEVA",
+    "classeId": "B2B-IT"
+  },
+  {
+    "id": 29,
+    "matricule": "CDPS-24-029",
+    "nom": "TCHAKAWU",
+    "prenom": "AKU",
+    "classeId": "B2A-IT"
+  },
+  {
+    "id": 30,
+    "matricule": "CDPS-24-030",
+    "nom": "TCHEYI",
+    "prenom": "SHALOM ESSOMAM",
+    "classeId": "B2B-IT"
+  },
+  {
+    "id": 31,
+    "matricule": "CDPS-24-031",
+    "nom": "TIDJANI",
+    "prenom": "SIDIK OREDOLA",
+    "classeId": "B2A-IT"
+  },
+  {
+    "id": 32,
+    "matricule": "CDPS-24-032",
+    "nom": "ZHANGBE",
+    "prenom": "JEAN HUGUES",
+    "classeId": "B2B-IT"
+  }
+]
